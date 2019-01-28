@@ -18,6 +18,6 @@ def third_element(array)
   @taylor_swift[2]
 end
 
-last_element(array)
+def last_element(array)
  @taylor_swift[-1]
  end
