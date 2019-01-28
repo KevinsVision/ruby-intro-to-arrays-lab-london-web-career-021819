@@ -11,7 +11,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  array_with_two_elements[1]
+  first_element[1]
 end
 
 def 
