@@ -13,3 +13,5 @@ end
 def first_element(array)
   @taylor_swift[0]
 end
+
+def 
