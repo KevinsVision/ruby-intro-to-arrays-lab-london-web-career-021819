@@ -15,5 +15,5 @@ def first_element(array)
 end
 
 def third_element(array)
-  @taylor_swift(2)
+  @taylor_swift[2]
 end
