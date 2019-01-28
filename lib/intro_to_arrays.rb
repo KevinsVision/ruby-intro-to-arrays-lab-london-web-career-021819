@@ -20,4 +20,5 @@ end
 
 def last_element(array)
  @taylor_swift[-1]
- end
+end
+
