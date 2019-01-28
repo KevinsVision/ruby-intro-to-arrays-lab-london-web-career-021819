@@ -23,5 +23,5 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  @taylor_swift.first
+  @south_east_asia.first
 end
