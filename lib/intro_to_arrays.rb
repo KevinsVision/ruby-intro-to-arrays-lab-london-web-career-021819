@@ -19,4 +19,4 @@ def third_element(array)
 end
 
 last_element(array)
- @taylor_swift[]
+ @taylor_swift[-1]
