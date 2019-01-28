@@ -11,5 +11,5 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  my_first_elemnt["Welcome to New York"]
+  taylor_swift[0]
 end
