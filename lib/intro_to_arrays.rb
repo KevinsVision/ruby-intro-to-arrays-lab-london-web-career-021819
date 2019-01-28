@@ -19,7 +19,7 @@ def third_element(array)
 end
 
 def last_element(array)
-  @taylor_swift[0]
+  my_last_element[0]
 end
 
 def first_element_with_array_methods(array)
