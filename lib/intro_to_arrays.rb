@@ -14,4 +14,6 @@ def first_element(array)
   @taylor_swift[0]
 end
 
-def 
+def third_element(array)
+  @taylor_swift(2)
+end
